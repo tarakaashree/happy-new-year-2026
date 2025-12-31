@@ -1,0 +1,8 @@
+{
+  "name": "Happy New Year 2026",
+  "description": "An interactive, romantic gift website for New Year 2026, featuring polaroids, a virtual kiss, a love letter, and a trip down memory lane.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
